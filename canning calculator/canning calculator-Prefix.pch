@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'canning calculator' target in the 'canning calculator' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
